@@ -1,0 +1,13 @@
+.gradle/
+build/
+run/
+*.iml
+.idea/
+
+# Local dependency sources and credentials are never published.
+.legacy-deps/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
